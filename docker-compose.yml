@@ -1,4 +1,5 @@
 version: '2'
+services:
   collapsible-optimism:
     image: builder555/collapsible-optimism:latest
     privileged: true
